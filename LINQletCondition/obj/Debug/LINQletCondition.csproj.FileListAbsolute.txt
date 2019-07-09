@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\LINQletCondition\LINQletCondition\bin\Debug\LINQletCondition.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\LINQletCondition\LINQletCondition\bin\Debug\LINQletCondition.exe
+C:\Users\Nemanja Djordjevic\source\repos\LINQletCondition\LINQletCondition\bin\Debug\LINQletCondition.pdb
+C:\Users\Nemanja Djordjevic\source\repos\LINQletCondition\LINQletCondition\obj\Debug\LINQletCondition.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\LINQletCondition\LINQletCondition\obj\Debug\LINQletCondition.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\LINQletCondition\LINQletCondition\obj\Debug\LINQletCondition.exe
+C:\Users\Nemanja Djordjevic\source\repos\LINQletCondition\LINQletCondition\obj\Debug\LINQletCondition.pdb
